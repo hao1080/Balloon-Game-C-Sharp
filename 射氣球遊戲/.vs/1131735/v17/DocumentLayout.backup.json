@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jonathan\\Desktop\\c#\u671F\u672B\u4F5C\u696D\\\u5C04\u6C23\u7403\u904A\u6232\\\u5C04\u6C23\u7403\u904A\u6232\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFD8BF2-0910-4E5F-9E78-DD7D7723DEFD}|1131735.csproj|c:\\users\\jonathan\\desktop\\c#\u671F\u672B\u4F5C\u696D\\\u5C04\u6C23\u7403\u904A\u6232\\\u5C04\u6C23\u7403\u904A\u6232\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFD8BF2-0910-4E5F-9E78-DD7D7723DEFD}|1131735.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFD8BF2-0910-4E5F-9E78-DD7D7723DEFD}|1131735.csproj|C:\\Users\\Jonathan\\Desktop\\c#\u671F\u672B\u4F5C\u696D\\\u5C04\u6C23\u7403\u904A\u6232\\\u5C04\u6C23\u7403\u904A\u6232\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDFD8BF2-0910-4E5F-9E78-DD7D7723DEFD}|1131735.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\c#\u671F\u672B\u4F5C\u696D\\\u5C04\u6C23\u7403\u904A\u6232\\\u5C04\u6C23\u7403\u904A\u6232\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\c#\u671F\u672B\u4F5C\u696D\\\u5C04\u6C23\u7403\u904A\u6232\\\u5C04\u6C23\u7403\u904A\u6232\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:29:11.006Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\c#\u671F\u672B\u4F5C\u696D\\\u5C04\u6C23\u7403\u904A\u6232\\\u5C04\u6C23\u7403\u904A\u6232\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\c#\u671F\u672B\u4F5C\u696D\\\u5C04\u6C23\u7403\u904A\u6232\\\u5C04\u6C23\u7403\u904A\u6232\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAIQBAAAAAAAAAADwvxsCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:04:50.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
